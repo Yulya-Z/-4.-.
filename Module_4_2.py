@@ -4,6 +4,6 @@ def test_function():
 
         inner_function # не работает
 
-    inner_function() # ошибка
+inner_function() # выдает ошибку
 
-test_function() # работает
+
